@@ -15,6 +15,7 @@ Recommended Prerequisites :
       Also note : you may need maven on your machine already. If you do need it, you can find it https://maven.apache.org/download.cgi
        
    To start using Eclipse with the plugins : 
+   
      Now you have Eclipse you need to get the code base. The easiest way is : 
        1. Goto File->Import
        2. From this list choose git,
